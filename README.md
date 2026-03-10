@@ -72,25 +72,6 @@ https://github.com/Carvarafael/Fractal-Reshape-representation
 Esse repositório contém a implementação da técnica **Fractal Reshape Representation**, utilizada para gerar as representações fractais aplicadas neste estudo.
 
 ---
-
-# Estrutura do Repositório
-histopathology-fractal-transformer
-│
-├── main.ipynb
-│ Notebook contendo o pipeline de experimentos e treinamento dos modelos
-│
-├── Resultados/
-│ Resultados obtidos nos experimentos realizados
-│
-├── README.md
-│ Documentação do projeto
-│
-└── .gitignore
-
-
-
----
-
 # Experimentos
 
 Os experimentos realizados neste trabalho incluem:
