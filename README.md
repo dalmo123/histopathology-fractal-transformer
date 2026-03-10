@@ -116,6 +116,15 @@ Esses resultados incluem:
 - Matrizes de confusão
 - Comparações entre diferentes representações de imagem
 
+# Visualização Interativa dos Resultados
+
+Para facilitar a análise dos resultados obtidos nos experimentos, foi desenvolvida uma interface web que permite visualizar alguns dos gráficos gerados durante a avaliação dos modelos.
+
+A aplicação pode ser acessada no link abaixo:
+
+https://vits-fractal-oral-lesions.lovable.app/
+
+Nessa interface é possível explorar visualmente alguns dos resultados experimentais, incluindo gráficos comparativos entre diferentes representações de imagem e cenários de classificação.
 ---
 
 # Autor
